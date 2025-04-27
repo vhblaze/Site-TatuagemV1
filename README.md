@@ -44,7 +44,7 @@ bash
 Copiar
 Editar
 # Clone o repositório
-git clone https://github.com/vhblaze/Estruturas-De-dados-site-tatoo.git
+git clone https://github.com/vhblaze/Site-TatuagemV1.git
 # Acesse a pasta do projeto
 cd seu-repositorio
 
